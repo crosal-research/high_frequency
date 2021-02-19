@@ -1,4 +1,6 @@
 *.*~
-/images/*.*
-/DB/database/*.sqlite
-/.DS_Store
+*.pyc 
+./images/*
+./DB/database/*.sqlite
+*/*\.DS_Store
+DB/data

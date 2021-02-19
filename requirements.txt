@@ -1,0 +1,8 @@
+pandas
+requests
+pony
+pytest
+matplotlib
+Bottle
+helium
+selenium
